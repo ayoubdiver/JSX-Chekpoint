@@ -1,0 +1,26 @@
+.App {
+    text-align: center;
+    margin-top: 2rem;
+    width: 500px;
+    background-color: rgb(236, 235, 233);
+    margin: auto;
+    padding: 10px;
+  }
+  h1{
+    font-size: 24px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: rgb(4, 79, 96);
+
+  }
+  h2 {
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(19, 219, 42);
+  }
+  p{
+    font-size: 18px;
+    font-weight: 200;
+    color: rgb(16, 16, 16);
+  }
